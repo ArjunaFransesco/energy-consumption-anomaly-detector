@@ -117,4 +117,4 @@ jupyter notebook notebooks/energy_consumption_anomaly_detector_pipeline.ipynb
 - **Portfolio Website**: [https://github.com/ArjunaFransesco/arjuna-portfolio](https://github.com/ArjunaFransesco/arjuna-portfolio)
 
 
-<!-- Last Maintenance Audit: 2026-10-28 -->
+<!-- Last Maintenance Audit: 2026-10-29 -->
